@@ -36,3 +36,5 @@ const shadowSize = (h) => 0.1 * (h + ballSize) + ballSize / 2;
 
 // Call the animate function from the framework.
 animate(drawFrame);
+
+// TESTING CHANGE
